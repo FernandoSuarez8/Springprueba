@@ -2,10 +2,10 @@
 
 ## Equipo de trabajo
 
-| Nombre              | Roll     | Correo                           |
-| :------------------ | :------- | :--------------------------------|
-| `Fernando Suarez`   | `string` |                                  |
-| `Felipe Rodriguez`  | `string` |                                  |
-| `Wilmer Mendoza`    | `string` |                                  |
-| `Aicardo`           | `string` |                                  |
-| `Alejandro Salazar` | `string` | alejandro.salazarg1998@gmail.com |
+| Nombre                        | Roll                          | Correo                           |
+| :---------------------------- | :---------------------------- | :------------------------------- |
+| `Wilmer Jose Mendoza Montaño` | `Líder del equipo`            | wilmerjmendoza@hotmail.com       |
+| `Carlos Guevara Rodriguez `   | `Diseñador UI`                |                                  |
+| `Fernando Suárez`             | `Tester`                      |                                  |
+| `Aicardo`                     | `Diseñador de software`       |                                  |
+| `Alejandro Salazar`           | `Administrador configuración` | alejandro.salazarg1998@gmail.com |
